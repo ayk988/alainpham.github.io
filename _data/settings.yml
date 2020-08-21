@@ -13,6 +13,8 @@ menu:
         link: /projects/microbam
       - name: OurLegacy
         link: /projects/ourlegacy
+  - name: Professor
+    link: /Professor
   - name: Posts
     link: /
   - name: Tags
